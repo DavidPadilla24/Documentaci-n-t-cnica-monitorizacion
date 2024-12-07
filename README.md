@@ -1,6 +1,6 @@
 # Monitorizacion
 
-[imagenmonitorizacion](/img/moni.png)
+![imagenmonitorizacion](/img/moni.png)
 
 1.- [Introduccion](introduccion.md)
 

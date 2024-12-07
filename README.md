@@ -1,5 +1,6 @@
 # Monitorizacion
 
+[imagenmonitorizacion](/imng/moni.png)
 
 1.- [Introduccion](introduccion.md)
 

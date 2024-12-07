@@ -91,7 +91,7 @@ Para guardar la salida de tcpdump en un archivo, puedes redirigir la salida a un
 El comando tcpdump -r se utiliza para leer archivos de captura de paquetes de red previamente guardados
 
 
-![tcpdump-r](/img/tcmpdumprcapturas.png)
+![tcpdump-r](/img/tcpcapturas.png)
 
 
 

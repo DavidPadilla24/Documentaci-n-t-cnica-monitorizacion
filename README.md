@@ -13,9 +13,11 @@
 
 Referencias
 
-[Chatgpt](https://chatgpt.com)
+- [Chatgpt](https://chatgpt.com)
 
-[Claude](https://claude.ai)
+- [Claude](https://claude.ai)
+
+- [Manuel Dominguez](https://github.com/mftienda)
 
 
 

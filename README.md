@@ -6,9 +6,9 @@
 
 ## 2.- [Herramientas propias del sistema en LINUX](herramientas.md)
 
-## 3.- [Sistemas de monitorización](sistemas.md)
+ 3.- [Sistemas de monitorización](sistemas.md)
 
-## 4.- [Mapa conceptual](mapa.md)
+ 4.- [Mapa conceptual](mapa.md)
 
 
 # Referencias

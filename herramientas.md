@@ -101,7 +101,8 @@ El comando tcpdump -r se utiliza para leer archivos de captura de paquetes de re
 
 ``tcptrack`` es una herramienta de línea de comandos que muestra el tráfico de red en tiempo real. Muestra información sobre conexiones TCP activas en un sistema, incluidas las direcciones IP, los puertos y el estado de la conexión.
 
-![tcptrack](/img/tcptracken1.png)
+![tcptrack](img/tcptracken1.png)
+
 ---
 
 ## IPTRAF

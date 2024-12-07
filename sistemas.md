@@ -10,7 +10,7 @@ Los sistemas de monitorización especializados amplían las capacidades de las h
 
 - Soporta múltiples plugins y personalizaciones.
 
-![nagios](nagios.png)
+![nagios](/img/nagios.png)
 
 ## Zabbix
 
@@ -20,7 +20,7 @@ Los sistemas de monitorización especializados amplían las capacidades de las h
 
 - Incluye alertas y paneles visuales.
 
-![zabix](zabix.png)
+![zabix](/img/zabix.png)
 
 
 
@@ -33,7 +33,7 @@ Los sistemas de monitorización especializados amplían las capacidades de las h
 - Integra Grafana para la visualización.
 
 
-![prometeus](prometeus.png)
+![prometeus](/img/prometeus.png)
 
 
 
@@ -43,8 +43,8 @@ Los sistemas de monitorización especializados amplían las capacidades de las h
 
 - Compatible con múltiples fuentes de datos, como Prometheus, InfluxDB y Elasticsearch.
 
-![grafana](grafana.png)
+![grafana](/img/grafana.png)
 
 
-![grafana](grafana1.png)
+![grafana](/img/grafana1.png)
 

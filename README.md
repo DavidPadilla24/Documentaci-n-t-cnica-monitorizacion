@@ -13,14 +13,16 @@
 
 Referencias
 
-- [Chatgpt](https://chatgpt.com)
+-.[Chatgpt](https://chatgpt.com)
 
 - [Claude](https://claude.ai)
 
 - [Manuel Domínguez](https://github.com/mftienda)
 
 
+# Autor 
 
+[David Alvarez Padilla](https://github.com/DavidPadilla24)
 
 
 

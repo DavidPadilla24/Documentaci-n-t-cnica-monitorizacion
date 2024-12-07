@@ -1,4 +1,4 @@
-# Monitorizacín
+# Monitorización
 
 ![imagenmonitorizacion](/img/moni.png)
 
@@ -11,7 +11,7 @@
  4.- [Mapa conceptual](mapa.md)
 
 
-# Referencias
+## Referencias
 
 - [Chatgpt](https://chatgpt.com)
 

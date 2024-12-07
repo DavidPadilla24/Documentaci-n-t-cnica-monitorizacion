@@ -1,4 +1,5 @@
 Definición
+
 La monitorización es un proceso crítico en la gestión de sistemas informáticos y de red que implica la supervisión continua del rendimiento, la disponibilidad y el funcionamiento de infraestructuras tecnológicas.
 
 

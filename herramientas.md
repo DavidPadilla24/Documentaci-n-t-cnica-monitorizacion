@@ -1,7 +1,7 @@
 Los sistemas operativos modernos incluyen herramientas integradas para la monitorización de recursos. Estas permiten obtener información detallada sobre el rendimiento y el estado del sistema.
 
 
-# <u>**Monitorizacion de Procesos**</u>
+# **Monitorizacion de Procesos**
 
 ## **ps**
 

@@ -18,12 +18,12 @@ Con ``ps aux`` se muestra información sobre todos los procesos de todos los usu
 Si quieres info sobre un proceso en concreto, puedes usar `` ps -C <nombre> ``
 
 
-![psnano](psnano.png)
+![psnano](/img/psnano.png)
 
 
 Si quieres ver los procesos que mas ocupen, por ejemplo, los 5 que mas ocupan memoria, puedes usar ``ps -eo user,pid,%cpu,%mem,time --sort=-%cpu``
 
-![pseo](5procesosquemasconsumen.png)
+![pseo](/img/5procesosquemasconsumen.png)
 
 ---
 
@@ -31,7 +31,7 @@ Si quieres ver los procesos que mas ocupen, por ejemplo, los 5 que mas ocupan me
 
 - El comando top permite monitorear en tiempo real el uso de recursos del sistema, como CPU, memoria y procesos en ejecución.
 
-![top](top.png)
+![top](/img/top.png)
 
 
 ---
@@ -46,7 +46,7 @@ Si quieres ver los procesos que mas ocupen, por ejemplo, los 5 que mas ocupan me
 
 ``atop`` es una herramienta de monitorización avanzada para sistemas Linux, que proporciona información detallada sobre el uso de recursos y procesos.
 
-![atop](atop.png)
+![atop](/img/atop.png)
 
 
 
@@ -59,7 +59,7 @@ Si quieres ver los procesos que mas ocupen, por ejemplo, los 5 que mas ocupan me
 El comando ``tcpdump``es una herramienta de línea de comandos que permite capturar y analizar paquetes de red en un sistema. Es muy útil para depurar problemas de red, analizar tráfico y realizar tareas de seguridad.
 
 
-![tcpdump](tcpdump.png)
+![tcpdump](/img/tcpdump.png)
 
 
 
@@ -70,7 +70,7 @@ Para capturar paquetes de red con tcpdump, necesitas especificar la interfaz de 
 
 ``sudo tcpdump -i eth0``
 
-![tcpdump-i](tcmpdump-i.png)
+![tcpdump-i](/img/tcmpdump-i.png)
 
 
 ## TCPDUMP redirección a un archivo
@@ -80,9 +80,9 @@ Para guardar la salida de tcpdump en un archivo, puedes redirigir la salida a un
 
 ``sudo tcpdump -i eth0 -w capturas``
 
-![tcpdump-ieno](capturapaquetesopenweb.png)
+![tcpdump-ieno](/img/capturapaquetesopenweb.png)
 
-![tcpdump-ieno](paquetesopenwebinar.png)
+![tcpdump-ieno](/img/paquetesopenwebinar.png)
 
 ---
 
@@ -91,7 +91,7 @@ Para guardar la salida de tcpdump en un archivo, puedes redirigir la salida a un
 El comando tcpdump -r se utiliza para leer archivos de captura de paquetes de red previamente guardados
 
 
-![tcpdump-r](tcmpdumprcapturas.png)
+![tcpdump-r](/img/tcmpdumprcapturas.png)
 
 
 
@@ -106,16 +106,16 @@ El comando tcpdump -r se utiliza para leer archivos de captura de paquetes de re
 
 ## IPTRAF
 
-![iptraf](iptraf.png)
+![iptraf](/img/iptraf.png)
 
 
-![iptraf](iptrafresultado.png)
+![iptraf](/img/iptrafresultado.png)
 
 ---
 
 ## BMON
 
-![BMON](bmon.png)
+![BMON](/img/bmon.png)
 
 
 
@@ -128,7 +128,7 @@ El comando ``free`` muestra la cantidad de memoria libre y utilizada en el siste
 Para verlo en intervalos de 3s por ejemplo, se puede usar ``free -s 3``.
 
 
-![free](freememoriaRAM.png)
+![free](/img/freememoriaRAM.png)
 
  ## ESPACIO
 
@@ -139,13 +139,13 @@ Usando ``df -hT``, se muestra el espacio en disco en un formato más legible par
 Si quiero ver algun espacio en concreto, por ejemplo el de /, se puede usar ``df -hT`` /.
 
 
-![df](df-htamañodiscos.png)
+![df](/img/df-htamañodiscos.png)
 
 
 Si quiero calcular el espacio, por ejemplo, de un directorio en concreto, se puede usar ``du -sh`` /directorio.
 
 
-![du](du-hs.png)
+![du](/img/du-hs.png)
 
 --- 
 
@@ -153,7 +153,7 @@ Si quiero calcular el espacio, por ejemplo, de un directorio en concreto, se pue
 
 El comando ``iostat`` muestra estadísticas de uso de CPU y dispositivos de E/S.
 
-![iostat](iostatnombredisco.png)
+![iostat](/img/iostatnombredisco.png)
 
 
 
@@ -161,7 +161,7 @@ Con la opción ``-x``, se muestra información extendida sobre las estadísticas
 
 Si quiero verlo en intervalos de 5s por ejemplo, se puede usar iostat ``-x nvme0n1 -s 5``.
 
-![iostat](iostat-x.png)
+![iostat](/img/iostat-x.png)
 
 
 

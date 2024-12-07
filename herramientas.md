@@ -71,7 +71,7 @@ Para capturar paquetes de red con tcpdump, necesitas especificar la interfaz de 
 
 ``sudo tcpdump -i eth0``
 
-![tcpdump-i](/img/tcmpdump-i.png)
+![tcpdump-i](/img/tcmpdumpi.png)
 
 
 ## TCPDUMP redirección a un archivo

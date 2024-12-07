@@ -22,7 +22,7 @@
 
 ## Autor 
 
-[David Alvarez Padilla](https://github.com/DavidPadilla24)
+:man_technologist: [David Alvarez Padilla](https://github.com/DavidPadilla24)
 
 
 

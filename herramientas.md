@@ -108,6 +108,8 @@ El comando tcpdump -r se utiliza para leer archivos de captura de paquetes de re
 
 ## IPTRAF
 
+``iptraf`` es una herramienta de monitorización de red en tiempo real para sistemas Linux, diseñada para proporcionar estadísticas detalladas sobre el tráfico de red.
+
 ![iptraf](/img/iptraf.png)
 
 
@@ -116,6 +118,9 @@ El comando tcpdump -r se utiliza para leer archivos de captura de paquetes de re
 ---
 
 ## BMON
+
+``bmon (Bandwidth Monitor) `` es una herramienta de monitorización en Linux utilizada para supervisar el ancho de banda y el tráfico de red en tiempo real. 
+
 
 ![BMON](/img/bmon.png)
 

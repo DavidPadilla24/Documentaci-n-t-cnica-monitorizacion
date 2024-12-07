@@ -20,7 +20,7 @@
 - [Manuel Domínguez](https://github.com/mftienda)
 
 
-# Autor 
+## Autor 
 
 [David Alvarez Padilla](https://github.com/DavidPadilla24)
 

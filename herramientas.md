@@ -12,7 +12,7 @@ Los sistemas operativos modernos incluyen herramientas integradas para la monito
 
 Con ``ps aux`` se muestra información sobre todos los procesos de todos los usuarios en formato largo y con información adicional.
 
-![psaux](psaux.png)
+![psaux](/img/psaux.png)
 
 
 Si quieres info sobre un proceso en concreto, puedes usar `` ps -C <nombre> ``

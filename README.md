@@ -17,7 +17,7 @@ Referencias
 
 - [Claude](https://claude.ai)
 
-- [Manuel Dominguez](https://github.com/mftienda)
+- [Manuel Domínguez](https://github.com/mftienda)
 
 
 

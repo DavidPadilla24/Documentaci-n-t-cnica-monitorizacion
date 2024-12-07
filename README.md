@@ -12,3 +12,13 @@
 
 
 Referencias
+
+[Chatgpt](https://chatgpt.com)
+[Claude.ai]([https://chatgpt.com/](https://claude.ai))
+
+
+
+
+
+
+

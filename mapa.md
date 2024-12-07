@@ -1,1 +1,1 @@
-![mapaconceptual](mapamonitor.png)
+![mapaconceptual](/img/mapamonitor.png)

@@ -17,7 +17,7 @@
 
 - [Claude](https://claude.ai)
 
-- :teacher: [Manuel Domínguez](https://github.com/mftienda)
+- [Manuel Domínguez](https://github.com/mftienda) :teacher:
 
 
 ## Autor 

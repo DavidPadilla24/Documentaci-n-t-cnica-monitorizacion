@@ -13,7 +13,7 @@
 
 Referencias
 
--.[Chatgpt](https://chatgpt.com)
+- [Chatgpt](https://chatgpt.com)
 
 - [Claude](https://claude.ai)
 

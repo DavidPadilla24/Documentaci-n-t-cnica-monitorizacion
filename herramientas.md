@@ -38,7 +38,7 @@ Si quieres ver los procesos que mas ocupen, por ejemplo, los 5 que mas ocupan me
 
 ``top -b -n 1 > top.txt``   Genera una captura de top y guardar la informacion en un archivo
 
-![topb](topb.png)
+![topb](/img/topb.png)
 
 ---
 
